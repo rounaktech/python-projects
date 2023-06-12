@@ -3,6 +3,8 @@ This repository contains all the Python Projects I have ever created.
 
 HERE ARE THE DETAILS OF ALL THE PROJECTS AND HOW THEY WORK
 
+AI CHATBOT
+This project is an AI Chatbot that will help you to play music, tell time, search wiki and a lot more... More improvements coming soon ✌️
 
 HIGH SCORE APP - 0 or 1 GUESSING GAME
 This project is a game where you will have to guess whether computer have drawn 0 or 1.... Just a random number guessing game. The High score will be stored in the highscore.txt file
